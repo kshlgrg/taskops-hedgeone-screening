@@ -4,9 +4,7 @@ TaskOps is a mini task management dashboard built for the HedgeOne Full Stack De
 
 ## Live Demo
 
-Add the deployment URL here after Vercel deployment:
-
-`https://your-vercel-url.vercel.app`
+Production: https://taskops-hedgeone-screening.vercel.app
 
 ## Features
 
